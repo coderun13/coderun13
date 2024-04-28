@@ -6,6 +6,10 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Snehal Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer and an Aspiring AI and ML engineer💻💻.</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/coderun13/coderun13/assets/133630024/c65de983-d506-419b-aa40-28e5a9963720)
+">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderun13&label=Profile%20views&color=0e75b6&style=flat" alt="coderun13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderun13" alt="coderun13" /></a> </p>
