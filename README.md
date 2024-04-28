@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Nodejs,Express,React,API's**
 
-- 📫 How to reach me **snehalsingh.0407@gmail.com and www.linkedin.com/in/coderunsnehal**
+- 📫 How to reach me **snehalsingh.0407@gmail.com**
 
 - 😄 Feel free to connect on LinkedIn✌️✌️ [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
 
-- ⚡ Fun fact **Fun fact: Your brain is constantly eating itself😁😁..**
+- ⚡ Fun fact: ** Your brain is constantly eating itself😁😁..**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
