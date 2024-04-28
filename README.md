@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Snehal Singh</h1>
 <h3 align="center">A passionate Full Stack Web Developer and an Aspiring AI and ML engineer💻💻.</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/coderun13/coderun13/assets/133630024/c65de983-d506-419b-aa40-28e5a9963720)
-">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderun13&label=Profile%20views&color=0e75b6&style=flat" alt="coderun13" /> </p>
