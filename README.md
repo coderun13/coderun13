@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤝 I’m looking for help with **AI & ML**
 
-- 👨‍💻 All of my projects are available at [http://coderun13/](http://coderun13/)
+- 👨‍💻 All of my projects are available at [https://github.com/coderun13](https://github.com/coderun13)
 
 - 📝 I regularly post on [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
 
