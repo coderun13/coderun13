@@ -1,49 +1,108 @@
-<!---
-coderun13/coderun13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![logo](https://github.com/coderun13/coderun13/blob/main/banner.png)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Snehal Singh</h1>
-<h3 align="center">A passionate Full Stack Web Developer and an Aspiring AI and ML engineer💻💻.</h3>
+```
+╔═══════════════════════════════════════════════════════════════╗
+║         SNEHAL SINGH  //  AI × AUTOMATION × ARCHITECTURE      ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coderunsnehal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:snehalsingh.0407@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/coderun13?style=flat-square&color=0D1117&labelColor=30363D&label=Followers)](https://github.com/coderun13)
+![Profile Views](https://komarev.com/ghpvc/?username=coderun13&style=flat-square&color=0D1117)
 
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderun13&label=Profile%20views&color=0e75b6&style=flat" alt="coderun13" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderun13" alt="coderun13" /></a> </p>
+## `whoami`
 
-- 🔭 I’m currently working on **Full Stack Web Dev**
+> *Building systems that think, automate, and scale — where full-stack architecture meets intelligent automation.*
 
-- 🌱 I’m currently learning **about AI and ML ...**
+I'm an **AI Automation Engineer** who designs end-to-end systems that eliminate repetitive workflows, embed machine intelligence into production pipelines, and architect scalable API-first infrastructures. My work sits at the intersection of predictive modeling and real-world engineering.
 
-- 🤝 I’m looking for help with **AI & ML**
+**What I believe:** If a human is doing it more than twice, a system should be doing it forever.
 
-- 👨‍💻 All of my projects are available at [https://github.com/coderun13](https://github.com/coderun13)
+---
 
-- 📝 I regularly post on [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
+## `./stack --verbose`
 
-- 💬 Ask me about **Nodejs,Express,React,API's**
+```yaml
+intelligence:
+  languages:      [ Python ]
+  frameworks:     [ TensorFlow, Scikit-Learn ]
+  focus:          [ Neural Networks, Predictive Modeling, Real-Time ML ]
 
-- 📫 How to reach me **snehalsingh.0407@gmail.com**
+automation & backend:
+  runtime:        [ Node.js ]
+  frameworks:     [ Django, Express.js ]
+  protocols:      [ RESTful APIs, Webhooks, Async Pipelines ]
 
-- 😄 Feel free to connect on LinkedIn✌️✌️ [https://www.linkedin.com/in/coderunsnehal](https://www.linkedin.com/in/coderunsnehal)
+frontend:
+  library:        [ React.js ]
+  styling:        [ Tailwind CSS ]
+  standard:       [ ES6+, Component-Driven Architecture ]
 
-- ⚡ Fun fact: ** Your brain is constantly eating itself😁😁..**
+data:
+  relational:     [ MySQL, PostgreSQL ]
+  document:       [ MongoDB ]
+
+devops:
+  tools:          [ Git, GitHub Actions, Postman, Linux ]
+  philosophy:     [ CI/CD, Automation-First, Infrastructure as Code ]
+```
+
+---
+
+## `git log --research`
+
+| Status | Project |
+|:---|:---|
+| 🟢 **Active** | Optimization of Neural Networks for real-time web applications |
+| 🔵 **Ongoing** | Autonomous workflow systems for end-to-end enterprise automation |
+| 🟡 **Exploring** | API-driven ML inference at the edge |
+
+---
+
+## `./metrics --github`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=coderun13&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderun13&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
 
 <br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/coderunsnehal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/coderunsnehal" height="30" width="40" /></a>
-</p>
 
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=coderun13&theme=github-dark-blue&hide_border=true&stroke=0D1117&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderun13&show_icons=true&locale=en&layout=compact" alt="coderun13" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderun13&show_icons=true&locale=en" alt="coderun13" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderun13&" alt="coderun13" /></p>
+## `./principles`
+
+```
+[01] Automation is not a feature — it is the architecture.
+[02] Clean APIs are contracts. Honor them.
+[03] A model in production is worth more than ten in a notebook.
+[04] Systems should be built to be replaced, not maintained forever.
+[05] Complexity is a smell. Simplify before scaling.
+```
+
+---
+
+## `./connect`
+
+```bash
+$ reach snehal --via linkedin   → https://linkedin.com/in/coderunsnehal
+$ reach snehal --via email      → snehalsingh.0407@gmail.com
+$ reach snehal --via github     → github.com/coderun13
+```
+
+---
+
+<div align="center">
+
+*"Engineered with intent. Automated with purpose."*
+
+</div>
