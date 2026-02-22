@@ -19,7 +19,7 @@
 
 ## `whoami`
 
-> *Building systems that think, automate, and scale — where full-stack architecture meets intelligent automation.*
+> *Building systems that think, automate, and scale where full-stack architecture meets intelligent automation.*
 
 I'm an **AI Automation Engineer** who designs end-to-end systems that eliminate repetitive workflows, embed machine intelligence into production pipelines, and architect scalable API-first infrastructures. My work sits at the intersection of predictive modeling and real-world engineering.
 
@@ -84,7 +84,7 @@ devops:
 ## `./principles`
 
 ```
-[01] Automation is not a feature — it is the architecture.
+[01] Automation is not a feature, it is the architecture.
 [02] Clean APIs are contracts. Honor them.
 [03] A model in production is worth more than ten in a notebook.
 [04] Systems should be built to be replaced, not maintained forever.
