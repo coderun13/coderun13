@@ -1,4 +1,4 @@
-![logo](https://github.com/coderun13/coderun13/blob/main/banner.png)
+<!-- [logo](https://github.com/coderun13/coderun13/blob/main/banner.png)-->
 
 <div align="center">
 
